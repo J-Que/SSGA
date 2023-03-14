@@ -1,0 +1,10 @@
+{
+    "ID": "0",
+    "problem": "A-n32-k5",
+    "generations": 50000,
+    "population size": 640,
+    "mutation rate": 0.3,
+    "threads": 20,
+    "sub-generations": 100,
+    "printing interval": 1000
+}
